@@ -24,6 +24,8 @@ OC.L10N.register(
     "Send usage survey monthly" : "Send en månedlig forbrugsrapport.",
     "Data to send" : "Data der sendes",
     "Last report" : "Seneste rapport",
+    "Data to send" : "Data der sendes",
+    "Last report" : "Seneste rapport",
     "Last report sent on: %s" : "Seneste rapport sendt den: %s"
 },
 "nplurals=2; plural=(n != 1);");
